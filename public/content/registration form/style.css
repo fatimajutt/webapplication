@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+#heading {
+  color: #735ad0;
+  text-align: center;
+  text-decoration: underline;
+}
+.main {
+  width: 100%;
+  height: 1050px;
+} 
+.title {
+  color: white;
+}
+.field {
+  height: 20px;
+  width: 200px;
+}
+table {
+  background-color: #6b5acd;
+}
+.tr1 {
+  width: 15%;
+}
+tr > td {
+  height: 40px;
+}
+span {
+  color: white;
+}
+.mn {
+  text-align: center;
+  height: 20px;
+  width: 230px;
+}
